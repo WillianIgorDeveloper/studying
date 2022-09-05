@@ -1,0 +1,20 @@
+.home {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 100vh;
+}
+.home p {
+  color: var(--gray-100);
+  font-weight: 700;
+  font-size: 3.75rem;
+}
+.home img {
+  width: 35%;
+}
+.home .textContainer {
+  text-align: center;
+}
+.home .margin {
+  margin-top: 2rem;
+}/*# sourceMappingURL=Home.module.css.map */

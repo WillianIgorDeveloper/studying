@@ -1,0 +1,21 @@
+.home {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    min-height: 100vh;
+
+    p {
+        color: var(--gray-100);
+        font-weight: 700;
+        font-size: 3.75rem;
+    }
+    img {
+        width: 35%;
+    }
+    .textContainer {
+        text-align: center;
+    }
+    .margin {
+        margin-top: 2rem;
+    }
+}
